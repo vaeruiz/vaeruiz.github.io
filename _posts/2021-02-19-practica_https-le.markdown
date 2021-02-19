@@ -22,7 +22,7 @@ Cuando termine este proceso, volvemos a la ventana de servicios y vamos a Mis do
 
 En la nueva página que se nos abre, deberemos de crear 2 registros DNS de tipo A que apunten a nuestra máquina de Amazon, en mi caso los registros han quedado de la siguiente manera.
 
-![Imagen de demostracion 1](/capturas/captura1.png)
+![Imagen de demostracion 1](https://github.com/vaeruiz/vaeruiz.github.io/blob/main/image/2021-02-19-post_https-le/captura1.png?raw=true)
 
 Guardamos los cambios que hemos hecho.
 
@@ -58,9 +58,9 @@ Vamos a la página de [Certbot](https://certbot.eff.org/instructions) (el enlace
 
 Si entramos en nuestro dominio, veremos que está reconocido como un sitio seguro y que dispone de un certificado SSL.
 
-![Imagen de demostracion 1](/capturas/captura2.png)
+![Imagen de demostracion 1](https://github.com/vaeruiz/vaeruiz.github.io/blob/main/image/2021-02-19-post_https-le/captura2.png?raw=true)
 
-![Imagen de demostracion 1](/capturas/captura3.png)
+![Imagen de demostracion 1](https://github.com/vaeruiz/vaeruiz.github.io/blob/main/image/2021-02-19-post_https-le/captura3.png?raw=true)
 
 ## Script de automatización del entorno
 
