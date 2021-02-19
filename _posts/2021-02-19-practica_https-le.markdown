@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "HTTPS y Let's Encrypt"
-date:   2021-02-18 09:39:00 -0600
+date:   2021-02-19 09:39:00 -0600
 categories: Implantación de Aplicaciones Web
 ---
 Instalando una aplicación web y añadiendo un certificado HTTPS.
