@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Internet Of Thing"
+title:  "Internet Of Things"
 date:   2021-02-19 09:18:00 -0600
 categories: Implantación de Aplicaciones Web
 ---
