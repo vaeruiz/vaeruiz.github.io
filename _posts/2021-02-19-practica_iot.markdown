@@ -54,4 +54,4 @@ Para revisar el gráfico de nuestra aplicación IOT, vamos a la sección Dashboa
 
 Cuando entremos veremos los gráficos correspondientes con los datos que hemos introducido.
 
-![Captura de demostración](/imagenes/captura1.png)
+![Captura de demostración](https://github.com/vaeruiz/vaeruiz.github.io/blob/main/image/2021-02-19/captura1.png?raw=true)
