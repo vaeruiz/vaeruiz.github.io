@@ -28,7 +28,8 @@ twitter_username: jekyllrb
 github_username:  vaeruiz
 
 # Build settings
-theme: minima
+theme: chirpy
+#theme: minima
 plugins:
   - jekyll-feed
 
