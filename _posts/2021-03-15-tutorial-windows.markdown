@@ -24,3 +24,4 @@ Primero debemos ir al editor de registro de Windows llamado Regedit, podemos ent
 
 Antes de desplegarse el programa se nos advertirá de que la aplicación puede hacer cambios en el sistema y nos preguntará si queremos ejecutarlo de todas formas, le damos a Sí y a continuación estaremos en nuestro editor de registro.
 
+![Imagen-2](https://github.com/vaeruiz/vaeruiz.github.io/blob/main/image/2021-03-15-post_tutorial-windows/img2.png?raw=true)
