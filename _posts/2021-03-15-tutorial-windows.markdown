@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2021-02-18 03:48:54 -0600
-categories: jekyll update
+title:  "Añade opciones al menú contextual (clic derecho) de Windows"
+date:   2021-03-15 16:34:00 -0600
+categories: Windows
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Todos hemos "invocado" alguna vez el menú contextual de nuestro equipo, el famoso clic derecho, con él creamos carpetas, elegimos que hacer con nuestros archivos, ordenamos de forma automática el escritorio y muchas más cosas que nos permiten los sistemas Windows.
 
-Jekyll requires blog post files to be named according to the following format:
+Pero... ¿Este menú se puede moldear a nuestro gusto? Ya que imaginad el gran rendimiento que se le puede sacar añadiendo opciones personalizadas de, por ejemplo, los programas que más utilizamos, y así, en vez de utilizar accesos directos en el escritorio que nos tapan una pequeña porción de nuestro espléndido fondo de pantalla, tenemos un acceso más discreto a tan solo un par de clics.
 
-`YEAR-MONTH-DAY-title.MARKUP`
+# Introducción
 
 Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
