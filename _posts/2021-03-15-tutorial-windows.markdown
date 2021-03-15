@@ -52,6 +52,29 @@ Cuando hayamos localizado qué menú contextual queremos cambiar, lo desplegamos
 
 ![Imagen-3](https://github.com/vaeruiz/vaeruiz.github.io/blob/main/image/2021-03-15-post_tutorial-windows/img3.png?raw=true)
 
-Se creará una nueva carpeta, le pondremos el nombre que queramos, en mi caso he llamado a esta carpeta Writer.
+Se creará una nueva "clave" a la que le tenemos que poner un nombre, en mi caso la he llamado Writer.
 
 ![Imagen-4](https://github.com/vaeruiz/vaeruiz.github.io/blob/main/image/2021-03-15-post_tutorial-windows/img4.png?raw=true)
+
+Hecho esto hacemos clic derecho encima de nuestra nueva clave creada y hacemos lo mismo que antes, vamos a Nuevo>Clave, pero esta vez el nombre que le pondremos será "command", este paso siempre será necesario hacerlo así cuando vayamos a crear la clave de la opción que queremos añadir al menú contextual.
+
+![Imagen-5](https://github.com/vaeruiz/vaeruiz.github.io/blob/main/image/2021-03-15-post_tutorial-windows/img5.png?raw=true)
+
+Con esto hecho tendremos nuestra opción en el menú contextual del ratón, sin embargo, ahora no hace nada porque no tiene ninguna acción asociada.
+
+![Imagen-6](https://github.com/vaeruiz/vaeruiz.github.io/blob/main/image/2021-03-15-post_tutorial-windows/img6.png?raw=true)
+
+![Imagen-7](https://github.com/vaeruiz/vaeruiz.github.io/blob/main/image/2021-03-15-post_tutorial-windows/img7.png?raw=true)
+
+
+Para asociar una acción hacemos clic izquierdo una vez encima de la clave command que hemos creado, y a la derecha veremos un único valor que tiene el nombre de (Predeterminado), hacemos doble clic zquierdo sobre él para que se nos abra una nueva ventana en la que deberemos poner el comando o archivo que queremos que se ejecute al seleccionar la opción en el menú contextual.
+
+![Imagen-8](https://github.com/vaeruiz/vaeruiz.github.io/blob/main/image/2021-03-15-post_tutorial-windows/img8.png?raw=true)
+
+Después de darle a aceptar podemos comprobar que se ha añadido el comando de asociación a la acción del menú contextual.
+
+![Imagen-9](https://github.com/vaeruiz/vaeruiz.github.io/blob/main/image/2021-03-15-post_tutorial-windows/img9.png?raw=true)
+
+Ahora, si hacemos clic derecho en cualquier espacio de nuestro escritorio o en un directorio encontraremos la opción que hemos añadido y podremos comprobar que funciona.
+
+![Gif-1](https://github.com/vaeruiz/vaeruiz.github.io/blob/main/image/2021-03-15-post_tutorial-windows/gif1.gif?raw=true)
