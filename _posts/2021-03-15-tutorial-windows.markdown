@@ -46,6 +46,12 @@ Este directorio regula, entre otras cosas, el comportamiento del menú en varios
 
 >Debido a que en HKEY_CLASSES_ROOT existen miles y miles de directorios, podemos escribir en la barra de búsqueda el directorio que nos interesa editar para localizarlo de una forma más rápida
 
-Como se puede intuir cada HKEY_CLASSES_ROOT del que se ha hablado se puede utilizar para un ámbito de clic derecho distinto. Cada directorio tiene un \shell (que está al final de cada tipo) tenemos que saber diferenciar las estructuras de directorios para no equivocarnos. Cuando hayamos localizado qué menú contextual queremos cambiar, lo desplegamos, encontraremos una carpeta llamada "shell", hacemos clic derecho encima y le damos a Nuevo>Clave.
+Como se puede intuir cada HKEY_CLASSES_ROOT del que se ha hablado se puede utilizar para un ámbito de clic derecho distinto. Cada directorio tiene un \shell que está al final de cada tipo... ¡Tenemos que saber diferenciar las estructuras de directorios para no equivocarnos!
+
+Cuando hayamos localizado qué menú contextual queremos cambiar, lo desplegamos, encontraremos una carpeta llamada "shell", hacemos clic derecho encima y le damos a Nuevo>Clave.
 
 ![Imagen-3](https://github.com/vaeruiz/vaeruiz.github.io/blob/main/image/2021-03-15-post_tutorial-windows/img3.png?raw=true)
+
+Se creará una nueva carpeta, le pondremos el nombre que queramos, en mi caso he llamado a esta carpeta Writer.
+
+![Imagen-4](https://github.com/vaeruiz/vaeruiz.github.io/blob/main/image/2021-03-15-post_tutorial-windows/img4.png?raw=true)
