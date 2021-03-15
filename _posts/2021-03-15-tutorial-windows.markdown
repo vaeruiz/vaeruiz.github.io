@@ -84,4 +84,19 @@ Ahora, si hacemos clic derecho en cualquier espacio de nuestro escritorio o en u
 
 Como se ha visto en la demostración, y si has decidido jugar un poco con el menú contextual, la opción que hemos configurado sale pero, dependiendo de lo que queramos utilizar, se ve un poco soso si hemos añadido un programa como en este caso Writer.
 
-Para añadirle un icono tenemos que ir a la raiz de la clave, que creamos al principio [imagen4](#imagen4), hacer clic izquierdo una vez sobre él y hacer clic derecho en el área en blanco que encontramos donde se encuentra el valor (Predeterminado)
+Para añadirle un icono tenemos que ir a la raiz de la clave, que creamos al principio [imagen4](#imagen4), hacer clic izquierdo una vez sobre él y hacer clic derecho en el área en blanco que encontramos donde se encuentra el valor (Predeterminado), a continuación le damos a Nuevo>Valor de cadena y se nos creará un nuevo valor al que tendremos que llamarle Icon.
+
+![Gif-2](https://github.com/vaeruiz/vaeruiz.github.io/blob/main/image/2021-03-15-post_tutorial-windows/gif2.gif?raw=true)
+
+Ahora hacemos doble clic izquierdo encima del valor nuevo que hemos creado y en el cuadro "Información del valor" copiamos la ruta hasta donde se encuentra el icono que queremos que se muestre junto con la opción del menú contextual.
+
+![Imagen-10](https://github.com/vaeruiz/vaeruiz.github.io/blob/main/image/2021-03-15-post_tutorial-windows/img10.png?raw=true)
+
+Después de esto solo queda darle a Aceptar, y veremos nuestra opción personalizada con un icono.
+
+![Imagen-11](https://github.com/vaeruiz/vaeruiz.github.io/blob/main/image/2021-03-15-post_tutorial-windows/img11.png?raw=true)
+
+
+---
+
+De esta forma podemos personalizar un poco nuestro sistema Windows y poder sacarle un poco más de partido, las posibilidades son infinitas.
