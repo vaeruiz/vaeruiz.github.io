@@ -14,7 +14,11 @@ Pero... ¿Este menú se puede editar a nuestro gusto? Ya que imaginad el rendimi
 
 # ¿Cómo se hace?
 
-Primero debemos ir al editor de registro de Windows llamado Regedit, podemos entrar de varias maneras:
+Hacerlo es muy sencillo si prestamos atención y seguimos los pasos con cuidado.
+
+# El editor de registro
+
+Primero debemos entrar al editor de registro de Windows llamado Regedit, podemos entrar de varias maneras:
 
 1. **A través del símbolo del sistema.** Pulsando la tecla Windows de nuestro teclado o entrando al símbolo del sistema y en la barra de búsqueda ponemos "Regedit", se nos mostrará un programa llamado "Editor de registro".
 
@@ -24,4 +28,20 @@ Primero debemos ir al editor de registro de Windows llamado Regedit, podemos ent
 
 Antes de desplegarse el programa se nos advertirá de que la aplicación puede hacer cambios en el sistema y nos preguntará si queremos ejecutarlo de todas formas, le damos a Sí y a continuación estaremos en nuestro editor de registro.
 
+Encontraremos unos directorios que empiezan con el nombre de HKEY, el que nos interesa es HKEY_CLASSES_ROOT.
+
 ![Imagen-2](https://github.com/vaeruiz/vaeruiz.github.io/blob/main/image/2021-03-15-post_tutorial-windows/img2.png?raw=true)
+
+Este directorio regula, entre otras cosas, el comportamiento del menú en varios aspectos. A su vez contiene muchos otros directorios que como se ha dicho, sirven para otras cosas, los que nos permitirán añadir opciones al clic derecho del ratón son los directorios:
+
+- **HKEY_CLASSES_ROOT\*\shell.** Se mostrarán las opciones al hacer clic derecho en cualquier tipo de archivo.
+
+- **HKEY_CLASSES_ROOT\Directory\shell.** Se mostrarán las opciones configuradas al hacer clic derecho en cualquier directorio o carpeta.
+
+- **HKEY_CLASSES_ROOT\DesktopBackground\Shell.** Las opciones añadidas se mostrarán al hacer clic derecho en cualquier parte del escritorio.
+
+- **HKEY_CLASSES_ROOT\Directory\Background\shell.** En este caso, se verán las opciones del menú contextual al hacer clic derecho en cualquier directorio/carpeta y en el escritorio.
+
+- **HKEY_CLASSES_ROOT\Drive\shell.** Las opciones del menú contextual que se mostrarán al hacer clic derecho sobre unidades de disco.
+
+>Debido a que en HKEY_CLASSES_ROOT existen miles y miles de directorios, podemos escribir en la barra de búsqueda el directorio que nos interesa editar para localizarlo de una forma más rápida
