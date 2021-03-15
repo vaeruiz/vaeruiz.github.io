@@ -8,4 +8,10 @@ Todos hemos "invocado" alguna vez el menú contextual de nuestro equipo, el famo
 
 # Introducción
 
-Pero... ¿Este menú se puede editar a nuestro gusto? Ya que imaginad el rendimiento que se le puede sacar añadiendo opciones personalizadas de, por ejemplo, los programas o scripts que más utilizamos, y así poder tenerlo todo más a mano en vez de llenar nuestro escritorio de accesos directos.
+Pero... ¿Este menú se puede editar a nuestro gusto? Ya que imaginad el rendimiento que se le puede sacar añadiendo opciones personalizadas de, por ejemplo, los programas o scripts que más utilizamos y así poder tenerlo todo más a mano en vez de llenar nuestro escritorio de accesos directos.
+
+# ¿Cómo se hace?
+
+Primero debemos ir al editor de registro de Windows llamado Regedit, podemos entrar de varias maneras:
+
+1. **A través del símbolo del sistema.** Pulsamos la tecla Windows de nuestro teclado o entamos al símbolo del sistema y en la barra de búsqueda ponemos "Regedit", s
