@@ -6,11 +6,7 @@ categories: Windows
 ---
 Todos hemos "invocado" alguna vez el menú contextual de nuestro equipo, el famoso *clic derecho*, con él creamos carpetas, elegimos que hacer con nuestros archivos, ordenamos de forma automática el escritorio y muchas más cosas que nos permiten los sistemas Windows.
 
-<center>
-
 ![Imagen 1](https://github.com/vaeruiz/vaeruiz.github.io/blob/main/image/2021-03-15-post_tutorial-windows/img1.png?raw=true)
-
-</center>
 
 # Introducción
 
