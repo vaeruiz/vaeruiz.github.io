@@ -54,7 +54,8 @@ Cuando hayamos localizado qué menú contextual queremos cambiar, lo desplegamos
 
 Se creará una nueva "clave" a la que le tenemos que poner un nombre, en mi caso la he llamado Writer.
 
-![Imagen-4](https://github.com/vaeruiz/vaeruiz.github.io/blob/main/image/2021-03-15-post_tutorial-windows/img4.png?raw=true)
+<a name="imagen4"></a>
+Fuente: https://www.iteramos.com/pregunta/10116/-como-se-crea-y-se-enlaza-a-un-ancla-con-nombre-en-multimarkdown-![Imagen-4](https://github.com/vaeruiz/vaeruiz.github.io/blob/main/image/2021-03-15-post_tutorial-windows/img4.png?raw=true)
 
 Hecho esto hacemos clic derecho encima de nuestra nueva clave creada y hacemos lo mismo que antes, vamos a Nuevo>Clave, pero esta vez el nombre que le pondremos será "command", este paso siempre será necesario hacerlo así cuando vayamos a crear la clave de la opción que queremos añadir al menú contextual.
 
@@ -78,3 +79,9 @@ Después de darle a aceptar podemos comprobar que se ha añadido el comando de a
 Ahora, si hacemos clic derecho en cualquier espacio de nuestro escritorio o en un directorio encontraremos la opción que hemos añadido y podremos comprobar que funciona.
 
 ![Gif-1](https://github.com/vaeruiz/vaeruiz.github.io/blob/main/image/2021-03-15-post_tutorial-windows/gif1.gif?raw=true)
+
+# Extra, añade iconos a tu opción
+
+Como se ha visto en la demostración, y si has decidido jugar un poco con el menú contextual, la opción que hemos configurado sale pero, dependiendo de lo que queramos utilizar, se ve un poco soso si hemos añadido un programa como en este caso Writer.
+
+Para añadirle un icono tenemos que ir a la raiz de la clave que creamos al principio [link](#imagen4)
