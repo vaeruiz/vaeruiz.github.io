@@ -14,7 +14,7 @@ Pero... ¿Este menú se puede editar a nuestro gusto? Ya que imaginad el rendimi
 
 # ¿Cómo se hace?
 
-Hacerlo es muy sencillo si prestamos atención y seguimos los pasos con cuidado.
+Aunque es algo complejo, es muy sencillo si prestamos atención adecuada y seguimos los pasos con cuidado, es muy recomendable tener conocimientos previos y básicos de informática.
 
 # El editor de registro y los pasos necesarios
 
@@ -46,6 +46,6 @@ Este directorio regula, entre otras cosas, el comportamiento del menú en varios
 
 >Debido a que en HKEY_CLASSES_ROOT existen miles y miles de directorios, podemos escribir en la barra de búsqueda el directorio que nos interesa editar para localizarlo de una forma más rápida
 
-Como se puede intuir cada HKEY_CLASSES_ROOT se puede utilizar para un ámbito de clic derecho distinto. Cuando hayamos localizado qué menú contextual queremos cambiar, lo desplegamos, encontraremos una carpeta llamada "shell", hacemos clic derecho encima y le damos a Nuevo>Clave.
+Como se puede intuir cada HKEY_CLASSES_ROOT del que se ha hablado se puede utilizar para un ámbito de clic derecho distinto. Cada directorio tiene un \shell (que está al final de cada tipo) tenemos que saber diferenciar las estructuras de directorios para no equivocarnos. Cuando hayamos localizado qué menú contextual queremos cambiar, lo desplegamos, encontraremos una carpeta llamada "shell", hacemos clic derecho encima y le damos a Nuevo>Clave.
 
 ![Imagen-3](https://github.com/vaeruiz/vaeruiz.github.io/blob/main/image/2021-03-15-post_tutorial-windows/img3.png?raw=true)
