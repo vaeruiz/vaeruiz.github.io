@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Añade opciones al menú contextual (clic derecho) de Windows"
+title:  "El menú contextual (clic derecho) de Windows"
 date:   2021-03-15 16:34:00 -0600
 categories: Windows
 ---
