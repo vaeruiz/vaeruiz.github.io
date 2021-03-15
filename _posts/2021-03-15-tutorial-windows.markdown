@@ -16,7 +16,7 @@ Pero... ¿Este menú se puede editar a nuestro gusto? Ya que imaginad el rendimi
 
 Hacerlo es muy sencillo si prestamos atención y seguimos los pasos con cuidado.
 
-# El editor de registro
+# El editor de registro y los pasos necesarios
 
 Primero debemos entrar al editor de registro de Windows llamado Regedit, podemos entrar de varias maneras:
 
@@ -45,3 +45,7 @@ Este directorio regula, entre otras cosas, el comportamiento del menú en varios
 - **HKEY_CLASSES_ROOT\Drive\shell.** Las opciones del menú contextual que se mostrarán al hacer clic derecho sobre unidades de disco.
 
 >Debido a que en HKEY_CLASSES_ROOT existen miles y miles de directorios, podemos escribir en la barra de búsqueda el directorio que nos interesa editar para localizarlo de una forma más rápida
+
+Como se puede intuir cada HKEY_CLASSES_ROOT se puede utilizar para un ámbito de clic derecho distinto. Cuando hayamos localizado qué menú contextual queremos cambiar, lo desplegamos, encontraremos una carpeta llamada "shell", hacemos clic derecho encima y le damos a Nuevo>Clave.
+
+![Imagen-3](https://github.com/vaeruiz/vaeruiz.github.io/blob/main/image/2021-03-15-post_tutorial-windows/img3.png?raw=true)
