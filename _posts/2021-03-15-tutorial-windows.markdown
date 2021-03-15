@@ -84,4 +84,4 @@ Ahora, si hacemos clic derecho en cualquier espacio de nuestro escritorio o en u
 
 Como se ha visto en la demostración, y si has decidido jugar un poco con el menú contextual, la opción que hemos configurado sale pero, dependiendo de lo que queramos utilizar, se ve un poco soso si hemos añadido un programa como en este caso Writer.
 
-Para añadirle un icono tenemos que ir a la raiz de la clave que creamos al principio [link](#imagen4)
+Para añadirle un icono tenemos que ir a la raiz de la clave, que creamos al principio [imagen4](#imagen4), hacer clic izquierdo una vez sobre él y hacer clic derecho en el área en blanco que encontramos donde se encuentra el valor (Predeterminado)
