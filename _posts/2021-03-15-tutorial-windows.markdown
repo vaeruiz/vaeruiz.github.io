@@ -55,7 +55,7 @@ Cuando hayamos localizado qué MC queremos cambiar, lo desplegamos, encontraremo
 Se creará una nueva "clave" a la que le tenemos que poner un nombre, en mi caso la he llamado Writer.
 
 <a name="imagen4"></a>
-Fuente: https://www.iteramos.com/pregunta/10116/-como-se-crea-y-se-enlaza-a-un-ancla-con-nombre-en-multimarkdown-![Imagen-4](https://github.com/vaeruiz/vaeruiz.github.io/blob/main/image/2021-03-15-post_tutorial-windows/img4.png?raw=true)
+![Imagen-4](https://github.com/vaeruiz/vaeruiz.github.io/blob/main/image/2021-03-15-post_tutorial-windows/img4.png?raw=true)
 
 Hecho esto hacemos clic derecho encima de nuestra nueva clave creada y hacemos lo mismo que antes, vamos a Nuevo>Clave, pero esta vez el nombre que le pondremos será "command", este paso siempre será necesario hacerlo así cuando vayamos a crear la clave de la opción que queremos añadir al MC.
 
