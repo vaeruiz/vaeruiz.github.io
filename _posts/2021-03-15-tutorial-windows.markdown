@@ -34,9 +34,9 @@ Encontraremos unos directorios que empiezan con el nombre de HKEY, el que nos in
 
 Este directorio regula, entre otras cosas, el comportamiento del menú en varios aspectos. A su vez contiene muchos otros directorios que como se ha dicho, sirven para otras cosas, los que nos permitirán añadir opciones al clic derecho del ratón son los directorios:
 
-- **HKEY_CLASSES_ROOT\*\shell.** Se mostrarán las opciones al hacer clic derecho en cualquier tipo de archivo.
+- **HKEY_CLASSES_ROOT\*\shell.** Se mostrarán las opciones al hacer clic derecho encima de cualquier tipo de archivo.
 
-- **HKEY_CLASSES_ROOT\Directory\shell.** Se mostrarán las opciones configuradas al hacer clic derecho en cualquier directorio o carpeta.
+- **HKEY_CLASSES_ROOT\Directory\shell.** Se mostrarán las opciones configurables al hacer clic derecho en cualquier directorio o carpeta.
 
 - **HKEY_CLASSES_ROOT\DesktopBackground\Shell.** Las opciones añadidas se mostrarán al hacer clic derecho en cualquier parte del escritorio.
 
