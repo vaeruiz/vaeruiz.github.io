@@ -14,7 +14,7 @@ Pero... ¿Este menú se puede editar a nuestro gusto? Ya que imaginad el rendimi
 
 # ¿Cómo se hace?
 
-Aunque es algo complejo, es muy sencillo si prestamos atención adecuada y seguimos los pasos con cuidado, es muy recomendable tener conocimientos previos y básicos de informática.
+Aunque es algo complejo, es muy sencillo si prestamos la atención adecuada y seguimos los pasos con cuidado, es muy recomendable tener conocimientos previos y básicos de informática.
 
 # El editor de registro y los pasos necesarios
 
