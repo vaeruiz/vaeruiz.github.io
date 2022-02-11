@@ -21,7 +21,7 @@
 title: A place for PACR
 email: vaeruiz@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Esta página ha sido creada por Pedro Ángel Castiñeira Ruiz, actualmente estudiante de ASIR aquí encontrarás post relacionados con el entretenimiento o la informática.
+  Esta página ha sido creada por Pedro Ángel Castiñeira Ruiz. Aquí encontrarás post relacionados con el entretenimiento y la informática.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
