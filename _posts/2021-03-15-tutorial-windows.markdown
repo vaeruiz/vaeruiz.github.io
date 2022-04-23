@@ -20,7 +20,7 @@ Aunque es algo complejo, es muy sencillo si prestamos la atención adecuada y se
 
 Primero debemos entrar al editor de registro de Windows llamado Regedit, podemos entrar de varias maneras:
 
-1. **A través del símbolo del sistema.** Pulsando la tecla Windows de nuestro teclado o entrando al símbolo del sistema y en la barra de búsqueda ponemos "Regedit", se nos mostrará un programa llamado "Editor de registro".
+1. **A través del símbolo del sistema.** Pulsando la tecla Windows de nuestro teclado o entrando al símbolo del sistema, en la barra de búsqueda ponemos "Regedit", se nos mostrará un programa llamado "Editor de registro".
 
 2. **Por CMD.** En la consola de comandos escribimos regedit y lo ejecutamos.
 
