@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "El clic derecho de Windows"
+title:  "Clic derecho de Windows"
 date:   2021-03-15 16:34:00 -0600
 categories: Windows
 ---
