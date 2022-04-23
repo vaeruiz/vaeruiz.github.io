@@ -99,4 +99,4 @@ Después de esto solo queda darle a Aceptar, y veremos nuestra opción personali
 
 ---
 
-De esta forma podemos personalizar un poco nuestro sistema Windows y poder sacarle un poco más de partido teniendo programas o utilizades del día más a mano de lo que ya se puede tener.
+De esta forma podemos personalizar un poco nuestro sistema Windows y poder sacarle un poco más de partido teniendo programas o utilidades del día a día más a mano de lo que ya puedes tener.
